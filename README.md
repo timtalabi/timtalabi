@@ -34,4 +34,4 @@ I’m using GitHub to document my learning, build practical cybersecurity projec
 - More projects coming soon.
 
 # 📫 Connect With Me
-LinkedIn · GitHub
+· LinkedIn - https://linkedin.com/in/tim-talabi · GitHub - https://github.com/timtalabi
