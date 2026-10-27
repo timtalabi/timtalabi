@@ -1,5 +1,5 @@
 # Hi, I’m Tim 
-#### Cybersecurity | IAM | IT Security | Cloud
+### Cybersecurity | IAM | GRC | IT Security | Cloud
 
 I’m a cybersecurity and IT professional with an M.S. in Cybersecurity and hands-on experience in IT support, Active Directory, identity and access management, systems integration, and security operations.
 
